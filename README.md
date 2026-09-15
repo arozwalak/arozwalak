@@ -1,6 +1,6 @@
 ### Hi I'm Artur 👋
 
-I am Software Engineer and since 2009 I've been building different kind of websites and web applications. Since 2015 I work as Frontend Engineer and Team Lead at [Landbay](https://landbay.co.uk). I enjoy learning new technologies and discovering cool ideas and solutions for web development.
+I am Software Engineer and since 2009 I've been building different kind of websites and web applications. Since 2015 I worked as Principal Frontend Engineer and Team Lead. I enjoy learning new technologies and discovering cool ideas and solutions for web development.
 
 <!--
 **arozwalak/arozwalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
